@@ -2,8 +2,13 @@
     "name": "theme-actual-obsidian",
     "displayName": "(Actual) Obsidian",
     "description": "(Actual) Obsidian theme for Visual Studio Code, based on the TextMate and Eclipse originals.",
-    "version": "1.3.0",
+    "icon": "icon.png",
+    "version": "1.3.1",
     "publisher": "zehfernando",
+    "homepage": "https://github.com/zeh/vsc-theme-obsidian/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/zeh/vsc-theme-obsidian/issues"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/zeh/vsc-theme-obsidian"

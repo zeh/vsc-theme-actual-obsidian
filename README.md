@@ -1,6 +1,6 @@
 # (Actual) Obsidian
 
-Obsidian theme for Visual Studio Code, based on [the original Obsidian Theme for Eclipse](http://www.eclipsecolorthemes.org/?view=theme&amp;id=21).
+Obsidian theme for Visual Studio Code, based on [the original Obsidian Theme for Eclipse](http://www.eclipsecolorthemes.org/?view=theme&id=21).
 
 The theme file itself has been mostly based on [the work of Marcus Ekwall for TextMate](https://github.com/mekwall/obsidian-color-scheme) when porting the same theme. However, for some reason, some colors had to be corrected for Visual Studio Code.
 
