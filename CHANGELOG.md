@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.3
+
+* Fixed README links.
+
 ## 1.3.2
 
 * Updated store description and visual settings.

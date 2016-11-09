@@ -1,6 +1,6 @@
 # (Actual) Obsidian
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) [![Installs](https://vsmarketplacebadge.apphb.com/installs/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+[![Version](https://vsmarketplacebadge.apphb.com/version/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian.svg) [![Installs](https://vsmarketplacebadge.apphb.com/installs/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian.svg) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian.svg)
 
 Obsidian theme for Visual Studio Code, based on [the original Obsidian Theme for Eclipse](http://www.eclipsecolorthemes.org/?view=theme&id=21).
 
@@ -10,7 +10,7 @@ The theme file itself has been mostly based on [the work of Marcus Ekwall for Te
 
 ## Installing
 
-In Visual Studio Code, run `ext install theme-actual-obsidian`, or search for "Obsidian" in the Extension tab (Ctrl/CMD + Shift + P).
+In Visual Studio Code, press Ctrl/Command+P and enter `ext install theme-actual-obsidian`, or search for "Obsidian" in the Extension tab and pick "(Actual) Obsidian".
 
 ## License
 
