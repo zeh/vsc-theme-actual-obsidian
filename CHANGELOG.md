@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.4
+
+* Fixed README links, again.
+
 ## 1.3.3
 
 * Fixed README links.

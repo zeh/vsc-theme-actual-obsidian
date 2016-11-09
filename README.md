@@ -1,6 +1,6 @@
 # (Actual) Obsidian
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian.svg) [![Installs](https://vsmarketplacebadge.apphb.com/installs/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian.svg) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian.svg)
+[![Version](https://vsmarketplacebadge.apphb.com/version/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian) [![Installs](https://vsmarketplacebadge.apphb.com/installs/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/zehfernando.theme-actual-obsidian.svg)](https://marketplace.visualstudio.com/items?itemName=zehfernando.theme-actual-obsidian)
 
 Obsidian theme for Visual Studio Code, based on [the original Obsidian Theme for Eclipse](http://www.eclipsecolorthemes.org/?view=theme&id=21).
 
