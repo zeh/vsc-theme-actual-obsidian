@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.2
+
+* Updated store previews.
+
+## 1.4.1
+
+* Changed invisibles (whitespace character) to have 12% of their previous opacity.
+
 ## 1.4.0
 
 * Changed invisibles (whitespace character) to have 25% of their previous opacity.
