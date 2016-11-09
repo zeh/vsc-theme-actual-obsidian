@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.0
+
+* Changed invisibles (whitespace character) to have 25% of their previous opacity.
+
 ## 1.3.4
 
 * Fixed README links, again.
