@@ -26,14 +26,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "(Actual) Obsidian (legacy)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/obs.tmTheme"
-            },
-            {
                 "label": "(Actual) Obsidian",
                 "uiTheme": "vs-dark",
                 "path": "./themes/actual_obsidian.json"
+            },
+            {
+                "label": "(Actual) Obsidian (legacy)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/actual_obsidian_legacy.json"
             }
         ]
     }
