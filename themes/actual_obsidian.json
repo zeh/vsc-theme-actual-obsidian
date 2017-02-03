@@ -91,7 +91,6 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#93c763"
 			}
 		},
@@ -142,7 +141,6 @@
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#8cbbad"
 			}
 		},
@@ -150,7 +148,6 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#678cb1"
 			}
 		},
@@ -193,7 +190,6 @@
 			"name": "Embedded section",
 			"scope": "punctuation.section.embedded",
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#d955c1"
 			}
 		},
@@ -237,7 +233,6 @@
 			"name": "JavaScript: Variable",
 			"scope": "variable.language.js",
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#93c763"
 			}
 		},
@@ -479,7 +474,6 @@
 			"name": "HTML Tag",
 			"scope": "entity.name.tag",
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#678cb1"
 			}
 		},
@@ -487,7 +481,6 @@
 			"name": "XML: Tag",
 			"scope": "entity.name.tag.xml, entity.name.tag.localname.xml",
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#81a9c5"
 			}
 		},
