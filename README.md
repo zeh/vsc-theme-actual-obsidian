@@ -8,6 +8,8 @@ The theme file itself has been mostly based on [the work of Marcus Ekwall for Te
 
 ![Preview](preview.png)
 
+![Preview (HTML)](preview-html.png)
+
 ## Installing
 
 In Visual Studio Code, press Ctrl/Command+P and enter `ext install theme-actual-obsidian`, or search for "Obsidian" in the Extension tab and pick "(Actual) Obsidian".

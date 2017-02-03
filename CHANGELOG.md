@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.0.0
+
+* Added several missing scopes (e.g. local variables)
+* Fixed colors that were different from original Obsidian
+* HTML rendering now uses Obsidian colors
+
+This was a major update, so users probably need to re-select "(Actual) Obsidian" from the menu. Apologies for that.
+
+The previous version of the theme is available as "(Actual) Obsidian (legacy)", for anyone who's too used to the previous version.
+
 ## 1.4.2
 
 * Updated store previews.
