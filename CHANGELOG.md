@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.1.0
+
+* Fixes to HTML and CSS colors
+* Removed additional bold formattings
+
 ## 2.0.1
 
 * Updated store previews
