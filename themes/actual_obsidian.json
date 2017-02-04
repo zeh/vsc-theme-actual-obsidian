@@ -309,7 +309,9 @@
 		},
 		{
 			"name": "CSS: Class",
-			"scope": "entity.other.attribute-name.class.css",
+			"scope": [
+				"entity.other.attribute-name.class.css", "entity.other.attribute-name.class.mixin"
+			],
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#93c763"
@@ -326,7 +328,7 @@
 			"name": "CSS: Property",
 			"scope": "support.type.property-name.css, meta.property-name.css",
 			"settings": {
-				"foreground": "#81a9c5"
+				"foreground": "#678cb1"
 			}
 		},
 		{
@@ -365,7 +367,7 @@
 			"name": "Sass: at-rules",
 			"scope": "keyword.control.at-rule.sass, keyword.control.at-rule.import.scss, keyword.control.at-rule.mixin.scss, keyword.control.at-rule.include.scss",
 			"settings": {
-				"foreground": "#a082bd"
+				"foreground": "#93c763"
 			}
 		},
 		{
@@ -459,7 +461,7 @@
 			"scope": "punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.tag.html, punctuation.definition.tag.begin.xml, punctuation.definition.tag.end.xml, punctuation.definition.tag.xml, meta.tag.no-content",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#48627c"
+				"foreground": "#649636"
 			}
 		},
 		{
@@ -467,21 +469,21 @@
 			"scope": "punctuation.definition.tag.begin, punctuation.definition.tag.end, punctuation.definition.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#48627c"
+				"foreground": "#649636"
 			}
 		},
 		{
 			"name": "HTML Tag",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#678cb1"
+				"foreground": "#93c763"
 			}
 		},
 		{
 			"name": "XML: Tag",
 			"scope": "entity.name.tag.xml, entity.name.tag.localname.xml",
 			"settings": {
-				"foreground": "#81a9c5"
+				"foreground": "#93c763"
 			}
 		},
 		{
