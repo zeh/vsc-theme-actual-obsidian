@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.0
+
+* Added workbench color customizations
+
 ## 2.1.0
 
 * Fixes to HTML and CSS colors
