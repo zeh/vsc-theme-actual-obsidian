@@ -1,14 +1,80 @@
 {
-	"name": "(Actual) Obsidian",
-	"settings": [
+	"type": "dark",
+	"colors": {
+		// Base
+		"focusBorder": "#66747b",
+		"foreground": "#e0e2e4",
+		"selection.background": "#ffffff40",
+		"errorForeground": "#f44747",
+		// Button
+		"button.background": "#649636",
+		// Dropdown
+		"dropdown.background": "#404e51",
+		// Input
+		"input.background": "#404e51",
+		"input.placeholderForeground": "#96989a",
+		"inputOption.activeBorder": "#649636",
+		"inputValidation.errorBackground": "#f44747",
+		"inputValidation.errorBorder": "#f44747",
+		"inputValidation.infoBackground": "#6796e6",
+		"inputValidation.infoBorder": "#6796e6",
+		"inputValidation.warningBackground": "#cd9731",
+		"inputValidation.warningBorder": "#cd9731",
+		// Scrollbar
+		"scrollbar.shadow": "#00000080",
+		"scrollbarSlider.activeBackground": "#ffffff40",
+		"scrollbarSlider.background": "#ffffff20",
+		"scrollbarSlider.hoverBackground": "#ffffff30",
+		// Badge
+		"badge.background": "#649636",
+		// Progress bar
+		"progressBar.background": "#649636",
+		// Lists and trees
+		"list.activeSelectionBackground": "#649636",
+		"list.dropBackground": "#ffffff20",
+		"list.focusBackground": "#ffffff20",
+		"list.highlightForeground": "#649636",
+		"list.hoverBackground": "#ffffff20",
+		"list.inactiveSelectionBackground": "#ffffff20",
+		// Activity bar
+		"activityBar.background": "#293134",
+		"activityBar.dropBackground": "#ffffff20",
+		"activityBar.foreground": "#e0e2e4",
+		"activityBarBadge.background": "#649636",
+		// Sidebar
+		"sideBar.background": "#1e2426",
+		"sideBar.foreground": "#e0e2e4",
+		"sideBarTitle.foreground": "#e0e2e4",
+		"sideBarSectionHeader.background": "#404e51",
+		// Editor Groups & Tabs
+		"editorGroup.background": "#293134",
+		"editorGroup.border": "#3b4245",
+		"editorGroup.dropBackground": "#ffffff20",
+		"editorGroupHeader.noTabsBackground": "#1e2426",
+		"editorGroupHeader.tabsBackground": "#1e2426",
+		"tab.activeBackground": "#293134",
+		"tab.inactiveBackground": "#1e2426",
+		// Editor
+		"editor.background": "#293134",
+		"editor.foreground": "#e0e2e4",
+		"editorLineNumber.foreground": "#66747b",
+		"editorCursor.foreground": "#e0e2e4",
+		"editor.selectionBackground": "#404e51",
+		"editor.lineHighlightBackground": "#2f383c",
+		"editorWhitespace.foreground": "#3b4245",
+		/* TODO: find better colors for search */
+		"editor.findMatchBackground": "#78d02360",
+		"editor.findMatchHighlightBackground": "#ffcd2260",
+		"editor.findRangeHighlightBackground": "#ffcd2260",
+		"editorError.foreground": "#f44747",
+		"editorWarning.foreground": "#cd9731"
+		/* TODO: finish adding colors for remainder of workbench custom colors */
+	},
+	"tokenColors": [
 		{
 			"settings": {
-				"background": "#293134",
-				"caret": "#e0e2e4",
 				"foreground": "#e0e2e4",
-				"invisibles": "#3b4245",
-				"lineHighlight": "#2f383c",
-				"selection": "#404e51"
+				"background": "#293134"
 			}
 		},
 		{
@@ -310,7 +376,8 @@
 		{
 			"name": "CSS: Class",
 			"scope": [
-				"entity.other.attribute-name.class.css", "entity.other.attribute-name.class.mixin"
+				"entity.other.attribute-name.class.css",
+				"entity.other.attribute-name.class.mixin"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -633,11 +700,6 @@
 				"foreground": "#72aaca"
 			}
 		},
-
-		{
-			"comment": "BELOW: NEW ONES FROM DARK_PLUS.JSON"
-		},
-
 		{
 			"name": "Types declaration and references",
 			"scope": [
@@ -717,7 +779,30 @@
 			"settings": {
 				"foreground": "#678cb1"
 			}
+		},
+		{
+			"scope": "token.info-token",
+			"settings": {
+				"foreground": "#6796e6"
+			}
+		},
+		{
+			"scope": "token.warn-token",
+			"settings": {
+				"foreground": "#cd9731"
+			}
+		},
+		{
+			"scope": "token.error-token",
+			"settings": {
+				"foreground": "#f44747"
+			}
+		},
+		{
+			"scope": "token.debug-token",
+			"settings": {
+				"foreground": "#b267e6"
+			}
 		}
-
 	]
 }
