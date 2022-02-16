@@ -589,10 +589,61 @@
 			}
 		},
 		{
-			"name": "Markdown inline code",
-			"scope": "markup.raw.inline.markdown",
+			"name": "Markdown heading 1",
+			"scope": "heading.1.markdown",
 			"settings": {
-				"foreground": "#93c763",
+				"foreground": "#72aaca"
+			}
+		},
+		{
+			"name": "Markdown heading 2",
+			"scope": "heading.2.markdown",
+			"settings": {
+				"foreground": "#77afcf"
+			}
+		},
+		{
+			"name": "Markdown heading 3",
+			"scope": "heading.3.markdown",
+			"settings": {
+				"foreground": "#7cb4d4"
+			}
+		},
+		{
+			"name": "Markdown heading 4",
+			"scope": "heading.4.markdown",
+			"settings": {
+				"foreground": "#82bada"
+			}
+		},
+		{
+			"name": "Markdown heading 5",
+			"scope": "heading.5.markdown",
+			"settings": {
+				"foreground": "#87bfdf"
+			}
+		},
+		{
+			"name": "Markdown heading 6",
+			"scope": "heading.6.markdown",
+			"settings": {
+				"foreground": "#8dc5e5"
+			}
+		},
+		{
+			"name": "Markdown code block",
+			"scope": "markup.fenced_code.block.markdown",
+			"settings": {
+				"foreground": "#7D8C93",
+				"background": "#384c26",
+				"border": "#ff9900"
+			}
+		},
+		{
+			"name": "Markdown inline code",
+			"scope": "markup.inline.raw.string.markdown",
+			"settings": {
+				"foreground": "#7D8C93",
 				"background": "#384c26",
 				"border": "#ff9900"
 			}
@@ -615,14 +666,14 @@
 			"name": "Markdown unnumbered list",
 			"scope": "markup.list.unnumbered.markdown",
 			"settings": {
-				"foreground": "#678cb1"
+				"foreground": "#93c763"
 			}
 		},
 		{
 			"name": "Markdown quote",
 			"scope": "markup.quote.markdown",
 			"settings": {
-				"foreground": "#72aaca"
+				"foreground": "#A082BD"
 			}
 		},
 
