@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0.0
+
+* Fixes to HTML attribute colors (thanks @RanAwaySuccessfully)
+* Fixes to Markdown colors
+
 ## 2.1.0
 
 * Fixes to HTML and CSS colors
